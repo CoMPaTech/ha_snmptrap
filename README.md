@@ -1,6 +1,16 @@
 # Very basic custom component for receiving SNMP traps
 
-## Prepare
+## Installation
+
+### Installation (HACS)
+
+1. Go to HACS → Integrations → Custom Repositories
+2. Add this repository as type: Integration
+3. Install
+4. Restart Home Assistant
+5. Add the integration via Settings → Devices & Services
+
+### Manual installation
 
 Add/download to your HA config directory
 
