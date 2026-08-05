@@ -1,0 +1,10 @@
+{
+  "domain": "snmptrap",
+  "name": "SNMP Trap Listener",
+  "version": "0.0.1",
+  "documentation": "https://home-assistant.io",
+  "requirements": [],
+  "codeowners": ["CoMPaTech"],
+  "config_flow": true
+}
+
